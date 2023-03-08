@@ -1,4 +1,5 @@
 module.exports = {
+    dest: 'dist',
 	//网站的标题
 	title: '东东的博客',
 	//网站的描述

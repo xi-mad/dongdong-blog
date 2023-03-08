@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/xi-mad/dongdong-blog.git"
+    "url": "https://github.com/xi-mad/dongdong-blog.git"
   },
   "author": "dongdong",
   "license": "ISC",
