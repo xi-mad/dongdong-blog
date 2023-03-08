@@ -1,0 +1,24 @@
+{
+  "name": "dongdong-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xi-mad/dongdong-blog.git"
+  },
+  "author": "dongdong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xi-mad/dongdong-blog/issues"
+  },
+  "homepage": "https://github.com/xi-mad/dongdong-blog#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  }
+}
